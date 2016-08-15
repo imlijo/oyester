@@ -257,6 +257,14 @@ input#img-2.2:checked ~ .nav-dots label#img-dot-2.2{
 	margin-left:950px;
 	text-align: center;
 }
+
+#OrganicFarming-tabs{
+	height:400px;
+	width:900px;
+	margin-top:20px;
+	margin-left:950px;
+	text-align: center;
+}
 /* COL-MD-4-OF-* */
 
 /* #col-md-4-of-1:hover{

@@ -131,3 +131,6 @@ $(function () {
 $(function () {
 	$("#convention-tabs").tabs();
 });
+$(function () {
+	$("#OrganicFarming-tabs").tabs();
+});
