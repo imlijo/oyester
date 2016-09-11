@@ -75,30 +75,27 @@
 }
 .item:nth-child(1) {
     background: url(../IMAGES/BackGround/my_background.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
 	background-attachment: fixed;
-	width:100%;
 }
 .item:nth-child(2) {
     background: url(../IMAGES/BackGround/my_background_2.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
 	background-attachment: fixed;
-	width:100%;
 }
 .item:nth-child(3) {
     background: url(../IMAGES/BackGround/my_background_3.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
 	background-attachment: fixed;
-	width:100%;
 }
 .carousel {
     z-index: -99;
@@ -506,6 +503,6 @@ hr {
       width: 100%;
       height: 60px; /* Set the fixed height of the footer here */
       background-color: rgba(0,0,0,0.3);
-    }
+}
 
 
