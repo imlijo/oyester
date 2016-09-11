@@ -497,6 +497,12 @@ hr {
 .form div{content:'Hi';position:absolute;bottom:-15px;right:-20px;background:#50505a;color:#fff;width:320px;padding:16px 4px 16px 0;border-radius:6px;font-size:13px;box-shadow:10px 10px 40px -14px #000}
 .form span{margin:0 5px 0 15px} 
 	
-
+.footer {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      height: 60px; /* Set the fixed height of the footer here */
+      background-color: rgba(0,0,0,0.3);
+    }
 
 
