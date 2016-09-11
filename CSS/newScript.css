@@ -78,7 +78,7 @@
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: 100% 100%;
+    background-size: cover;
 	background-attachment: fixed;
 }
 .item:nth-child(2) {
@@ -86,7 +86,7 @@
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: 100% 100%;
+    background-size: cover;
 	background-attachment: fixed;
 }
 .item:nth-child(3) {
@@ -94,7 +94,7 @@
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: 100% 100%;
+    background-size: cover;
 	background-attachment: fixed;
 }
 .carousel {
