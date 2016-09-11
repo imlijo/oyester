@@ -80,6 +80,7 @@
     -o-background-size: cover;
     background-size: cover;
 	background-attachment: fixed;
+	width:100%;
 }
 .item:nth-child(2) {
     background: url(../IMAGES/BackGround/my_background_2.jpg) no-repeat center center fixed;
@@ -88,6 +89,7 @@
     -o-background-size: cover;
     background-size: cover;
 	background-attachment: fixed;
+	width:100%;
 }
 .item:nth-child(3) {
     background: url(../IMAGES/BackGround/my_background_3.jpg) no-repeat center center fixed;
@@ -96,6 +98,7 @@
     -o-background-size: cover;
     background-size: cover;
 	background-attachment: fixed;
+	width:100%;
 }
 .carousel {
     z-index: -99;
