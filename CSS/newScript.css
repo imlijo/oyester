@@ -339,6 +339,8 @@
 	}
 }
 
+
+
 .about-us a:link,
 .about-us a:visited {
     text-decoration: none;
@@ -453,6 +455,15 @@ hr {
     width: 410px;
     margin: -1px auto;
     margin-bottom: 65px;
+}
+
+@media all and (max-width: 450px) {
+	.connect-with-me-box-title{
+		font-size: 40px;
+	}
+	.connect-with-me-box-title:after{
+		width: 330px;
+	}
 }
 
 .connect-li { 
