@@ -29,6 +29,12 @@
 	text-align: center;
 }
 
+.fa-2x{
+	color:white;
+}
+#fa-map{
+	color:#4c4cff;
+}
 
 /* ./IMAGES/CLINIC/IMG-2.jpg */
 .carousel-fade .carousel-inner .item {
@@ -504,5 +510,7 @@ hr {
       height: 60px; /* Set the fixed height of the footer here */
       background-color: rgba(0,0,0,0.3);
 }
+
+
 
 
